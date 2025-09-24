@@ -20,7 +20,7 @@ The application features a clean, intuitive interface with a powerful code edito
 
 Fully optimized for **macOS Ventura and Sonoma**, Script Studio runs natively on both Intel-based Macs and Apple Silicon (M1, M2, M3), ensuring fast and reliable performance. Whether you are automating repetitive tasks, managing servers, or developing complex scripts, Script Studio offers a centralized and efficient workspace.
 
-![Script Studio Interface](https://static.macupdate.com/screenshots/290571/m/script-studio-screenshot.png?v=1610134506)
+![Script Studio Interface](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC_zvkp8E9BxIfutH-IR6xt1OYXe95KPhRuA&s)
 
 ---
 
